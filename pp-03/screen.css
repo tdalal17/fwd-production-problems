@@ -49,6 +49,12 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     height: 50vw;
     width: 50vw;
   }
+
+  #three {
+   order: 2;
+   width: 100vw;
+   height: 100vw;
+ }
 }
 
 @media screen and (min-width: 800px) {
